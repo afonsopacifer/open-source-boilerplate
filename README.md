@@ -11,7 +11,7 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 ## Contributing
 Find on our [roadmap](https://github.com/afonsopacifer/open-source-boilerplate/issues/1) the next steps of the project ;)
 <br>
-Want to contribute? [Follow these recommendations](https://github.com/busca-dev/busca-starter-kit/blob/master/CONTRIBUTING.md).
+Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/CONTRIBUTING.md).
 
 ## History
 See [Releases](https://github.com/afonsopacifer/open-source-boilerplate/releases) for detailed changelog.
