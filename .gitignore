@@ -1,0 +1,14 @@
+# OSX
+.DS_Store
+
+# windows
+Desktop.ini
+
+# NodeJS
+node_modules/
+bower_components/
+npm-debug.log
+.grunt
+
+# Ruby
+.sass-cache/
